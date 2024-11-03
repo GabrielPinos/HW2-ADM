@@ -1,5 +1,13 @@
 # HW2-ADM
 
+
+##### Group D - Gabriel Pinos, Elena di Grigoli, Darkhan Maksutov, Arman Salahshour
+<pinos.1965035@studenti.uniroma1.it>
+<arman_salahshour@ieee.org>
+<maksutov.2113209@studenti.uniroma1.it>
+<elenadigrigoli@gmail.com>
+
+
 ---
 
 # Steam Reviews 2021 Analysis
@@ -57,3 +65,5 @@ The dataset includes user reviews of various Steam applications, containing deta
 - *LLM Tools*: Used for interpretation and validation of results
 
 ---
+# Important!!
+- The interactive plot maybe cannot be shown in the preview, we attached the image of the plot.
